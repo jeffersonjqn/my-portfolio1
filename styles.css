@@ -277,6 +277,7 @@ hr {
     border-radius: 99px;
     font-weight: 600;
     cursor: pointer;
+    border: none;
 }
 
 .hero .container-botoes {
@@ -284,19 +285,16 @@ hr {
 }
 
 .baixar-cv {
-    border: 1px solid var(--cor-principal);
-    background-color: var(--cor-principal-escuro);
-    color: var(--cor-principal);
+    background-color: var(--cor-principal);
+    color: var(--cor-destaque);
 }
 
 .contato {
-    border: 1px solid var(--cor-link-botao);
-    background-color: transparent;
+    background-color: var(--cor-card-destaque);
     color: var(--cor-link-botao);
 }
 
 .container-disponibilidade {
-    margin-top: var(--espaco-padrao);
     position: relative;
 }
 
@@ -309,8 +307,6 @@ hr {
     border-radius: 99px;
     display: inline-flex;
     gap: 6px;
-    background-color: var(--cor-card-destaque);
-    padding: 4px 10px;
 }
 
 @media (max-width: 589px) {
