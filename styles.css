@@ -509,7 +509,18 @@ h6.rotulo-secao {
     align-items: center;
 }
 
+.rodape-conteudo p {
+    margin-bottom: var(--espaco-pequeno);
+}
+
+.rodape-direitos {
+    color: var(--cor-paragrafo);
+    font-size: 0.7rem;
+    margin-bottom: var(--espaco-padrao);
+}
+
 .voltar-topo {
+    z-index: 100;
     display: flex;
     justify-content: center;
     position: fixed;
