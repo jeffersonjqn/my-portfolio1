@@ -45,7 +45,7 @@ Essas práticas contribuem para uma maior acessibilidade e para a avaliação m�
 
 A página é estática. Você pode abrir localmente o arquivo `index.html` (com `styles.css` na mesma pasta) ou acessar pela GitHub Pages:
 
-[text](https://jeffersonjqn.github.io/my-portfolio1/)
+[Visite Aqui](https://jeffersonjqn.github.io/my-portfolio1/)
 
 ## Requisitos atendidos
 
